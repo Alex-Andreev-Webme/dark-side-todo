@@ -1,0 +1,13 @@
+.todo__btn {
+	box-sizing: border-box;
+	padding: 0;
+	display: flex;
+	border: none;
+	outline: none;
+	transition: .2s ease;
+}
+
+.todo__btn:hover {
+	opacity: .5;
+	cursor: pointer;
+}

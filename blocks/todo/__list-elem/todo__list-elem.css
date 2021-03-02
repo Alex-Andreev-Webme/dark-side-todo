@@ -1,0 +1,22 @@
+@keyframes fade-in {
+	from {
+		transform: translateY(100vh);
+	}
+	to {
+		transform: translateY(0);
+	}
+}
+
+.todo__list-elem {
+	margin-bottom: 20px;
+	padding: 15px 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 2px solid #ff3838;
+	animation: fade-in 1s ease;
+}
+
+.todo__list-elem:last-child {
+	margin-bottom: 0;
+}

@@ -1,0 +1,5 @@
+.todo__btn_type_edit {
+	min-width: 24px;
+	height: 24px;
+	background: url("../../../../images/pencil.svg") no-repeat center / cover;
+}

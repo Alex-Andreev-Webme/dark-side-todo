@@ -1,0 +1,18 @@
+.todo__input {
+	padding: 0 0 15px 0;
+	width: 100%;
+	font-size: 20px;
+	font-weight: 400;
+	color: #fff;
+	border: none;
+	border-bottom: 2px solid #fff;
+	background-color: transparent;
+	outline: none;
+	transition: .2s ease;
+	display: block;
+	position: relative;
+}
+
+.todo__input:focus {
+	border-color: rgba(255, 255, 255, 0.5);
+}

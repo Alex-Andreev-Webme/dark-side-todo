@@ -1,0 +1,9 @@
+.page {
+	font-family: "Inter", Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 1.4;
+	color: #fff;
+	background-color: #2a2c2f;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}

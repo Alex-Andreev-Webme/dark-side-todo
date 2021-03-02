@@ -1,0 +1,5 @@
+.todo__btn_type_remove {
+	min-width: 24px;
+	height: 24px;
+	background: url("../../../../images/trash.svg") no-repeat center / cover;
+}
