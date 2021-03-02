@@ -1,5 +1,6 @@
 @keyframes fade-out {
 	to {
+		transform: translateX(-200vh) rotate(360deg);
 		opacity: 0;
 	}
 }
